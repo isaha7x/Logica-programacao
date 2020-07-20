@@ -1,0 +1,24 @@
+<meta charset="UTF-8">
+
+<script>
+
+    function pulaLinha() {
+        document.write("<br>")
+    }
+
+    function mostra(geracoes) {
+        document.write(geracoes);
+        pulaLinha();
+    }
+
+    var dataAtual = 2020;
+    var chegadaPortugueses = 1500;
+    var media = (dataAtual - chegadaPortugueses) / 28;
+
+    mostra("de 1500 até 2020 passaram " + Math.round(media) + " gerações")
+
+    // for (i = 0; i < 2020; i++) {
+    //     document.write("adicionou 20" + i)
+    // }
+
+</script>

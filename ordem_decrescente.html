@@ -1,0 +1,21 @@
+<meta charset="UTF-8">
+
+<script>
+    function pulaLinha() {
+        document.write("<br>")
+    }
+
+    function mostra(frase) {
+        document.write(frase);
+        pulaLinha();
+    }
+
+    var numeroPar = 20;
+
+    while (numeroPar >= 0) {
+        mostra(numeroPar)
+        numeroPar -= 1
+    }
+
+    mostra("FIMM !")
+</script>

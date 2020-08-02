@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99e9be4e-941b-47e6-a8be-982d26a35c57" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cutwLBi0kEmlwb3MTQnn2pCLdd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.bandtec.jpa5.controladores" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.com.bandtec.jpa5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AlunoControllerTest.getAlunos">
+    <configuration name="AlunoControllerTest.getAlunos" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jpa5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bandtec.jpa5.controladores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.bandtec.jpa5.controladores" />
+      <option name="MAIN_CLASS_NAME" value="br.com.bandtec.jpa5.controladores.AlunoControllerTest" />
+      <option name="METHOD_NAME" value="getAlunos" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraControllerTest.testarConfiguracoes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jpa5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.bandtec.jpa5.controladores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.bandtec.jpa5.controladores" />
+      <option name="MAIN_CLASS_NAME" value="br.com.bandtec.jpa5.controladores.CalculadoraControllerTest" />
+      <option name="METHOD_NAME" value="testarConfiguracoes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AlunoControllerTest.getAlunos" />
+        <item itemvalue="JUnit.CalculadoraControllerTest.testarConfiguracoes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e9be4e-941b-47e6-a8be-982d26a35c57" name="Default Changelist" comment="" />
+      <created>1591390543556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591390543556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="352" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1591398181969">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="352" y="289" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1591398181969" />
+    <state x="479" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1591398184896">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="244" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1591398184896" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1591473308610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1591473308610" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1591473308610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1591473308610" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1591473308610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1591473308610" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1591473308610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1591473308610" />
+    <state x="446" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591399685901">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="446" y="82" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1366.728/1366.0.1280.680@0.0.1366.728" timestamp="1591399685901" />
+  </component>
+</project>

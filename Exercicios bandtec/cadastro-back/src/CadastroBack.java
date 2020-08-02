@@ -1,0 +1,4 @@
+@Rest
+public class CadastroBack {
+
+}
